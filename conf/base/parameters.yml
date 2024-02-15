@@ -1,0 +1,13 @@
+test_fraction: 0.3
+random_state: 42
+target_column: "IsCanceled"
+n_estimators: 100
+max_depth: 6
+max_features: 3
+run_name: "default"
+feature_selection: "rfe"
+model_name: "hotel"
+with_feature_selection: True
+n_iter_rs: 50
+cv_rs: 3
+
