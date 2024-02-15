@@ -1,4 +1,4 @@
-# mlops
+# Hotel Churn Prediction: A Machine Learning Operations Project
 
 Group Members:
 - Adriana Monteiro
