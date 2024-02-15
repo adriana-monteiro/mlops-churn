@@ -4,7 +4,7 @@ This is a project developed for the Machine Learning Operations (MLOps) course o
 
 ## Key Project Components
 1. Project Planning in Sprints;
-2. Data Exploration ([in the notebook folder](https://github.com/adriana-monteiro/mlops-churn/tree/main/notebooks);
+2. Data Exploration ([in the notebook folder](https://github.com/adriana-monteiro/mlops-churn/tree/main/notebooks));
 3. Kedro Framework:
    * Data Unit Testing;
    * MLflow experimentation and model versioning;
