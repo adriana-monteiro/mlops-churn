@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687736319181
+current_stage: None
+description: ''
+last_updated_timestamp: 1687736319181
+name: Fourth Best Candidate
+run_id: ba0d300c5a994466a1bbfc4bc35d8fd9
+run_link: ''
+source: file:///C:/Users/Pedro/MLOps/Project/project/mlruns/678142049655362259/ba0d300c5a994466a1bbfc4bc35d8fd9/artifacts/Model_42
+status: READY
+status_message: null
+user_id: null
+version: 1

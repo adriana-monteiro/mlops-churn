@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687736329518
+current_stage: None
+description: ''
+last_updated_timestamp: 1687736329518
+name: Fifth Best Candidate
+run_id: f451b80001c94ece8b9d8af52e141379
+run_link: ''
+source: file:///C:/Users/Pedro/MLOps/Project/project/mlruns/678142049655362259/f451b80001c94ece8b9d8af52e141379/artifacts/Model_31
+status: READY
+status_message: null
+user_id: null
+version: 1

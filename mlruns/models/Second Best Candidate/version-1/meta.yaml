@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687736293803
+current_stage: None
+description: ''
+last_updated_timestamp: 1687736293803
+name: Second Best Candidate
+run_id: 21097e42b046447a97ef68c37f5b32a0
+run_link: ''
+source: file:///C:/Users/Pedro/MLOps/Project/project/mlruns/678142049655362259/21097e42b046447a97ef68c37f5b32a0/artifacts/Model_25
+status: READY
+status_message: null
+user_id: null
+version: 1

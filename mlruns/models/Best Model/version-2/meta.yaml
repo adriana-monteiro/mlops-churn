@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687736217016
+current_stage: Production
+description: ''
+last_updated_timestamp: 1687792217228
+name: Best Model
+run_id: 678993caa72148d2979cab6ebe2db8ca
+run_link: ''
+source: file:///C:/Users/Pedro/MLOps/Project/project/mlruns/566867009641770376/678993caa72148d2979cab6ebe2db8ca/artifacts/final_model
+status: READY
+status_message: null
+user_id: null
+version: 2

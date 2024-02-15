@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1687736308627
+current_stage: None
+description: ''
+last_updated_timestamp: 1687736308627
+name: Third Best Candidate
+run_id: 645b3756682546919fb6b95d48b646fe
+run_link: ''
+source: file:///C:/Users/Pedro/MLOps/Project/project/mlruns/678142049655362259/645b3756682546919fb6b95d48b646fe/artifacts/Model_23
+status: READY
+status_message: null
+user_id: null
+version: 1
